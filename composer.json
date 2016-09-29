@@ -1,6 +1,6 @@
 {
-    "name": "topthink/think",
-    "description": "the new thinkphp framework",
+    "name": "prophet",
+    "description": "prophet",
     "type": "project",
     "keywords": [
         "framework",
@@ -11,8 +11,8 @@
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
+            "name": "KGpeerless",
+            "email": "newgkl@126.com"
         }
     ],
     "require": {
